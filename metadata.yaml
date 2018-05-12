@@ -1,0 +1,27 @@
+_repo: Julies-Dagbog_38515
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nansen, Peter
+    alias: Nansen, P. (Peter)
+    birthdate: 1861
+    deathdate: 1918
+    gutenberg_agent_id: '39510'
+    url: http://www.gutenberg.org/2009/agents/39510
+description: ''
+gutenberg_issued: '2012-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38515'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish fiction'
+title: Julies Dagbog
+url: http://www.gutenberg.org/ebooks/38515
