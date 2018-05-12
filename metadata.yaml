@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39510'
     url: http://www.gutenberg.org/2009/agents/39510
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38515#Julies-Dagbog
 gutenberg_issued: '2012-01-07'
 gutenberg_type: Text
 identifiers:
